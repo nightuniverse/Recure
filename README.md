@@ -250,7 +250,7 @@ pip install -r requirements.txt
 
 ## 📞 문의
 
-프로젝트에 대한 문의사항이 있으시면 이슈를 생성해 주세요.
+프로젝트에 대한 문의사항이 있으시면 nightskystaruniverse@kaist.ac.kr로 연락주세요.
 
 ---
 
