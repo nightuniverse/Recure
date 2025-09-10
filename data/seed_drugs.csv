@@ -1,0 +1,6 @@
+drug_id,drug_name,atc,indications_text
+D001,Metformin,A10BA02,"type 2 diabetes; insulin resistance; potential aging research"
+D002,Amantadine,N04BB,"parkinson's disease; influenza A"
+D003,Sildenafil,G04BE03,"erectile dysfunction; pulmonary hypertension"
+D004,Minocycline,J01AA08,"antibiotic; neuroinflammation research"
+D005,Thalidomide,L04AX02,"multiple myeloma; anti-angiogenic effects"

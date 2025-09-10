@@ -1,0 +1,6 @@
+disease_id,disease_name,synonyms
+DI001,Parkinson's disease,"PD; paralysis agitans"
+DI002,Alzheimer's disease,"AD"
+DI003,Pulmonary hypertension,"PH; high blood pressure in lungs"
+DI004,Multiple myeloma,"MM"
+DI005,Major depressive disorder,"MDD; depression"

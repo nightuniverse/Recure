@@ -1,0 +1,4 @@
+drug_id,disease_id,evidence
+D002,DI001,"known use for PD"
+D003,DI003,"approved for PH"
+D005,DI004,"approved for MM"

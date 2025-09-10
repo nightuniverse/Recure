@@ -1,0 +1,5 @@
+drug_id,gene_symbol,note
+D002,SNCA,"PD-related mechanism explored"
+D004,TNF,"anti-inflammatory modulation"
+D003,PDE5A,"primary target"
+D001,AMPK,"metabolic pathway"
